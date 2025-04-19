@@ -5,7 +5,7 @@ An intelligent data analysis agent built with the **Agno Agent** framework and *
 ---
 
 ## 📸 Screenshots
-[Google Drive Link](https://drive.google.com/file/d/1kdKIwxEtTsG76o6cgP37XBdPZ4s-riKe/view?usp=sharing)
+Data is Here: [Google Drive Link](https://drive.google.com/drive/folders/1hqjOC6M3OmpwmAuBFAD99LR73ofpyXD5?usp=sharing)
 ---
 
 ## 🚀 Features
